@@ -1,5 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- 🔭 Currently building/tuning trading programs for equities and crypto
+- 🔭 Senior Equity Trader @ Chimera Securities
+- 🌱 Focused learning algorithmic trading applications
+- 
 
 <!--
 **CreatorG456/CreatorG456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
