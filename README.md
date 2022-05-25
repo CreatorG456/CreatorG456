@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+Senior Equity Trader experienced across options, commodities, fixed-income, and cryptocurrencies. Deep knowledge of trading strategies and signals. Continually evolving with trading environments including automation and blockchain.
+
 - 🔭 Senior Equity Trader @ Chimera Securities
 - 🔭 Currently building/tuning trading programs for equities and crypto
 - 🌱 Focused on learning algorithmic trading and signal creation
